@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
   <CommandSet xml:lang="en-us" Name="HoLCommandSet_en-us">
-    <CommandPrefix> Hands on Labs, </CommandPrefix>
+    <AppName> Hands on Labs </AppName>
     <Example> Launch </Example>
 
     <Command Name="LaunchApp">
@@ -31,5 +31,5 @@
   <!--Optional second command set for supported languages. Replace the de-de language tag with your own. -->
   <!--<CommandSet xml:lang="de-de" Name="HoLCommandSet_de-de">
   </CommandSet>-->
-  
+
 </VoiceCommands>
